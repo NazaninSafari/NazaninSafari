@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nazanin Safari 👋
 
-<!--
-**NazaninSafari/NazaninSafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- React.js
+- PHP
+- JavaScript
+- MySQL
+- SEO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Goal
+Building modern web applications and becoming a Full-Stack Developer.
+
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React
+- PHP
+- MySQL
+- Git
+- GitHub
+
+## 📫 Connect with me
+
+- https://www.linkedin.com/in/nazanin-safari-975475394
